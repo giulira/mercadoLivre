@@ -1,10 +1,13 @@
 1) EXPLIQUE COM SUAS PALAVRAS O QUE É DOMAIN DRIVEN DESIGN E SUA IMPORTÂNCIA
 NA ESTRATÉGIA DE DESENVOLVIMENTO DE SOFTWARE.
-
+Resposta:
 
 2) EXPLIQUE COM SUAS PALAVRAS O QUE É E COMO FUNCIONA UMA ARQUITETURA BASEADA
 EM MICROSERVICES. EXPLIQUE GANHOS COM ESTE MODELO E DESAFIOS EM SUA
 IMPLEMENTAÇÃO.
+Resposta: Um micro serviço é aquele que dentro de um sistema, é reposável por uma funcionalidade. Podemos usar como exemplo, um sistema de cadastro de pessoas. A funcionalidade de cadastrar pessoas poderá ser um micro serviço porque a única funcionalidade dela é adicionar pessoa no cadastro.
+Um arquitetura baseada em micro serviço é aquela que possui vários micros serviços, e cada micro serviço é responsável por uma funcionalidade no sistema.
 
 3) EXPLIQUE QUAL A DIFERENÇA ENTRE COMUNICAÇÃO SINCRONA E ASSINCRONA E QUAL O
 MELHOR CENÁRIO PARA UTILIZAR UMA OU OUTRA.
+Resposta:
