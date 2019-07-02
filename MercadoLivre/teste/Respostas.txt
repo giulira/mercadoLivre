@@ -10,4 +10,5 @@ Um arquitetura baseada em micro serviço é aquela que possui vários micros ser
 
 3) EXPLIQUE QUAL A DIFERENÇA ENTRE COMUNICAÇÃO SINCRONA E ASSINCRONA E QUAL O
 MELHOR CENÁRIO PARA UTILIZAR UMA OU OUTRA.
-Resposta:
+Resposta: Comunicação sicrona é quando podemos falar com o cliente de forma direta, o emissor envia a mensagem e o receptor responde essa mensagem, sem delays. Utilizando por exemplo um telefone, hangouts e etc.
+Comunicação assincrona é quando duas pessoas podem se falar de forma que não tenha tempo determinado para a troca de informações. Utilizando por exemplo um e-mail, whatsapp, chats de texto e/ou sms.
