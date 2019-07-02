@@ -1,6 +1,6 @@
 1) EXPLIQUE COM SUAS PALAVRAS O QUE É DOMAIN DRIVEN DESIGN E SUA IMPORTÂNCIA
 NA ESTRATÉGIA DE DESENVOLVIMENTO DE SOFTWARE.
-Resposta:
+Resposta: É um padrão de modelagem que tem o objetivo de reforçar conceitos e boas práticas para a melhor utilização da orientação a objetos.
 
 2) EXPLIQUE COM SUAS PALAVRAS O QUE É E COMO FUNCIONA UMA ARQUITETURA BASEADA
 EM MICROSERVICES. EXPLIQUE GANHOS COM ESTE MODELO E DESAFIOS EM SUA
